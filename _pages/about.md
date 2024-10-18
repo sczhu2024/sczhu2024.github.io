@@ -11,16 +11,16 @@ redirect_from:
 
 ---
 ## 教育经历  
-2018.09 ~ 2024.10     
-- 北京航空航天大学 电子信息工程学院  工学博士  `
-- 主修运筹优化、数据挖掘、多源数据融合、现代控制理论等  
+2018.09 ~ 2024.11     
+- 北京航空航天大学 电子信息工程学院  工学博士    
+- 主修运筹学、智能优化、数据挖掘、多源数据融合、现代控制理论等  
 - 毕业论文：扰动条件下机场停机位鲁棒分配方法研究   
 
 
 2014.09 ~ 2018.06 
 - 福州大学 交通运输工程系  工学学士 
 - 主修微积分、概率论与数理统计、数值计算方法、运筹学等  
-- 毕业论文：基于分层前馈网络的交通需求预测模型研究 (校优秀毕业论文)   
+- 毕业论文：基于分层前馈网络的交通需求预测模型研究(校优秀毕业论文)   
 
 ---
 ## 研究方向  
@@ -34,14 +34,14 @@ redirect_from:
 ---
 ## 主要研究成果
 - 期刊/会议论文   
-[1] Robust gate assignment to minimise aircraft conflicts. Transportmetrica B: Transport Dynamics, 11(1).  
+[1] Robust gate assignment to minimise aircraft conflicts. Transportmetrica B: Transport Dynamics, 11(1).    
 [2] Optimizing aircraft-gate reassignment following airport disruptions: A hierarchical column-and-row generation approach. Chinese Journal of Aeronautics.  
-[3] 基于Epsilon约束列生成的机场停机位应急调整[J]. 北京航空航天大学学报.  
-[4] 基于核主成分分析的空域复杂度无监督评估[J]. 航空学报,2019,40(8):236-242.   
+[3] 基于Epsilon约束列生成的机场停机位应急调整. 北京航空航天大学学报.  
+[4] 基于核主成分分析的空域复杂度无监督评估. 航空学报,2019,40(8):236-242.   
 [5] A Column Generation-Based Approach for Robust Gate Assignment Problem Considering Delay Heterogeneity. World Transport Convention 2023. (优秀论文)  
 
 - 发明专利   
-[1] 一种机场资源调度的鲁棒优化方法:CN202210274301.8. 2022-04-15. 
+[1] 一种机场资源调度的鲁棒优化方法:CN202210274301.8. 2022-04-15.    
 [2] 一种航班航迹预测方法:CN202010394699.X. 2020-06-16.  
 [3] 一种基于四维航迹的货运航班调度方法和装置:CN201811635111.4. 2020-05-19.  
 [4] 一种基于轨迹分析的交通运力测算方法和装置:CN201910063200.4. 2020-10-30.  
@@ -63,4 +63,4 @@ redirect_from:
 [2] 世界交通运输大会(WTC2023) 优秀论文奖  
 [3] 全国大学生节能减排社会实践与科技竞赛 三等奖  
 [4] 中国研究生数学建模大赛 三等奖  
-[5] 优秀研究生、优秀共青团员、本科优秀毕业论文、研究生一等奖学金，等 
+[5] 优秀研究生、优秀共青团员、本科优秀毕业论文、研究生一等奖学金等 
