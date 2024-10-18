@@ -38,7 +38,7 @@ redirect_from:
 [2] Optimizing aircraft-gate reassignment following airport disruptions: A hierarchical column-and-row generation approach. Chinese Journal of Aeronautics.  
 [3] 基于Epsilon约束列生成的机场停机位应急调整. 北京航空航天大学学报.  
 [4] 基于核主成分分析的空域复杂度无监督评估. 航空学报,2019,40(8):236-242.   
-[5] A Column Generation-Based Approach for Robust Gate Assignment Problem Considering Delay Heterogeneity. World Transport Convention 2023. (优秀论文)  
+[5] A Column Generation-Based Approach for Robust Gate Assignment Problem Considering Delay Heterogeneity. World Transport Convention 2023. (优秀论文奖)  
 
 - 发明专利   
 [1] 一种机场资源调度的鲁棒优化方法:CN202210274301.8. 2022-04-15.    
