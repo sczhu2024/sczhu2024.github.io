@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-CN"
+locale                   : "zh-CN"
 title                    : "SCZHU's CV"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -25,7 +25,7 @@ author:
   name             : "朱少川"
   # pronouns         : "he/his"  
   bio              : "北京航空航天大学博士、福建警察学院副教授"
-  location         : ""
+  location         : "福建省福州市仓山区首山路59号治安系"
   employer         : "福建警察学院"
   uri              : # URL
   email            : "sczhu@fjpsc.edu.cn" 
