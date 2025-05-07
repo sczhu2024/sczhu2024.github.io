@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-博士毕业于北京航空航天大学**空地一体新航行系统技术全国重点实验室**(主任:张军院士)，围绕决策智能(Decision Intelligence)开展研究，发表SCI/EI等论文5篇，授权发明专利7项，获WTC2023优秀论文等10余项荣誉，作为骨干成员参与面向低空/高空运控的JKW重点基础、国家重点研发计划等多个国家级项目，深度参与科研项目/科技奖励的申报，参与空域态势评估、低空运控等系统研发。
+博士毕业于北京航空航天大学**空地一体新航行系统技术全国重点实验室**，围绕决策智能(Decision Intelligence)开展研究，发表SCI/EI等论文5篇，授权发明专利7项，获WTC2023优秀论文等10余项荣誉，作为骨干成员参与面向低空/高空运控的JKW重点基础、国家重点研发计划等多个国家级项目，深度参与科研项目/科技奖励的申报，参与空域态势评估、低空运控等系统研发。
 
 ---
 ## 工作经历   
@@ -39,7 +39,7 @@ redirect_from:
 [2] Optimizing aircraft-gate reassignment following airport disruptions: A hierarchical column-and-row generation approach. Chinese Journal of Aeronautics.  
 [3] 基于Epsilon约束列生成的机场停机位应急调整. 北京航空航天大学学报, 2025.  
 [4] 基于核主成分分析的空域复杂度无监督评估. 航空学报,2019,40(8):236-242.   
-[5] 多源异构航班航迹数据流实时融合方法研究. 物联网学报,2020,4(3):60-68.
+[5] 多源异构航班航迹数据流实时融合方法研究. 物联网学报,2020,4(3):60-68.   
 [6] A Column Generation-Based Approach for Robust Gate Assignment Problem Considering Delay Heterogeneity. World Transport Convention 2023. (优秀论文奖)  
 
 - 发明专利   
