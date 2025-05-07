@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "SCZHU's CV"
+title                    : "朱少川"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
