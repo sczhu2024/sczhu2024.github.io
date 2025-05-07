@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : ""
+locale                   : "zh-CN"
 title                    : "朱少川-福建警察学院"
 title_separator          : "-"
 name                     : &name "Your Name"
