@@ -10,6 +10,19 @@ redirect_from:
 博士就读于北京航空航天大学**空地一体新航行系统技术全国重点实验室**，主要围绕**决策智能**开展研究，发表SCI/EI等论文5篇，授权发明专利5项，获WTC2023优秀论文奖等近10项荣誉，作为骨干成员参与面向无人系统、航空运行的XXXX重点基础、国家重点研发等多个国家级项目，参与XX低空运控等系统研发。
 
 ---
+## 工作经历   
+2024.11 ~ 至今 福建警察学院治安系  副教授   
+- 2024.11 ~ 2025.01 福州市公安局巡特警支队 实践锻炼
+- 2025.02 ~ 2025.05 福建省公安厅科技信息化总队  实践锻炼   
+
+
+2014.09 ~ 2018.06 
+- 福州大学 交通运输工程系  工学学士 
+- 主修微积分、概率论与数理统计、数值计算方法、运筹学等  
+- 毕业论文：基于分层前馈网络的交通需求预测模型研究(校优秀毕业论文)   
+
+
+---
 ## 教育经历  
 2018.09 ~ 2024.11     
 - 北京航空航天大学 电子信息工程学院  工学博士    
@@ -34,7 +47,7 @@ redirect_from:
 ---
 ## 主要研究成果
 - 期刊/会议论文   
-[1] Robust gate assignment to minimise aircraft conflicts. Transportmetrica B: Transport Dynamics, 11(1).    
+[1] Robust gate assignment to minimise aircraft conflicts. Transportmetrica B: Transport Dynamics, 11(1).      
 [2] Optimizing aircraft-gate reassignment following airport disruptions: A hierarchical column-and-row generation approach. Chinese Journal of Aeronautics.  
 [3] 基于Epsilon约束列生成的机场停机位应急调整. 北京航空航天大学学报.  
 [4] 基于核主成分分析的空域复杂度无监督评估. 航空学报,2019,40(8):236-242.   
