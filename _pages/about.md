@@ -12,7 +12,7 @@ redirect_from:
 ---
 ## 工作经历   
 2024.11 ~ 至今  福建警察学院治安系  副教授   
-- 2024.12 ~ 2025.01 福州市公安局巡特警支队 实践锻炼
+- 2024.12 ~ 2025.01 福州市公安局巡特警支队 实践锻炼  
 - 2025.02 ~ 2025.05 福建省公安厅科技信息化总队  实践锻炼   
 
 ---
@@ -29,7 +29,7 @@ redirect_from:
 ---
 ## 主要研究成果
 - 期刊/会议论文   
-[1] Shaochuan Zhu, Yuanwen Lai, Jinqu Chen, Xiaolian Li, Yumeng Li. IoT-enabled deployment optimization for urban low-altitude airspace surveillance networks. IEEE Internet of Things Magazine, 2026.    
+[1] Shaochuan Zhu, Yuanwen Lai, Jinqu Chen, Xiaolian Li, Yumeng Li. IoT-enabled deployment optimization for urban low-altitude airspace surveillance networks[J]. IEEE Internet of Things Magazine, 2026.    
 [2] Shaochuan ZHU, Zheng L, Kaiquan CAI, et al. Optimizing aircraft-gate reassignment following airport disruptions: A hierarchical column-and-row generation approach[J]. Chinese Journal of Aeronautics, 2025, 38(2): 103155.  
 [3] Du W, Zhu S, Tong L, et al. Robust gate assignment to minimise aircraft conflicts[J]. Transportmetrica B: Transport Dynamics, 2023, 11(1): 2185497.      
 [4] Chen J, Liu X, Zhu S, et al. Resilience assessment of an integrated bus-rail network considering dynamic congestion propagation process under traffic congestion events[J]. Reliability Engineering & System Safety, 2025: 111721.   
