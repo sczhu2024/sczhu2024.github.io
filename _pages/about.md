@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-福建警察学院治安系副教授，工学博士，毕业于北京航空航天大学**空地一体新航行系统技术全国重点实验室**，交通信息工程及控制专业，围绕决策智能开展研究，发表SCI/EI等论文7篇，授权发明专利7项，获WTC2023优秀论文等10余项荣誉，作为骨干成员参与面向低空/高空运控的JKW重点基础、国家重点研发计划等多个国家级项目，深度参与科研项目/科技奖励的申报，参与空域态势评估、低空运控等系统研发。
+北京航空航天大学工学博士，福建警察学院治安系副教授，主要研究方向为无人机应用技术、低空安全管控等，主持《基于多模态融合的无人机取证关键技术研究》等省部级项目2项，参与国家重点研发计划、公安部科研计划等项目，在Chinese Journal of Aeronautic等学术期刊发表论文7篇，授权国家发明专利7项，获WTC2023优秀论文等10余项荣誉。
 
 ---
 ## 工作经历   
@@ -17,25 +17,27 @@ redirect_from:
 
 ---
 ## 教育经历  
-2018.09 ~ 2024.11  北京航空航天大学 电子信息工程学院  工学博士    
-2014.09 ~ 2018.06  福州大学 交通运输工程系  工学学士     
+2018.09 ~ 2024.11  北京航空航天大学 电子信息工程学院（**空地一体新航行系统技术全国重点实验室**）  工学博士    
+2014.09 ~ 2018.06  福州大学 交通工程系  工学学士     
 
 ---
 ## 研究方向  
 - 低空安全管控
 - 无人机应用技术
-- 交通数据分析
+- 交通大数据分析
 
 ---
 ## 主要研究成果
 - 期刊/会议论文   
-[1] Du W, Zhu S, Tong L, et al. Robust gate assignment to minimise aircraft conflicts[J]. Transportmetrica B: Transport Dynamics, 2023, 11(1): 2185497.      
-[2] Shaochuan ZHU, Zheng L, Kaiquan CAI, et al. Optimizing aircraft-gate reassignment following airport disruptions: A hierarchical column-and-row generation approach[J]. Chinese Journal of Aeronautics, 2025, 38(2): 103155.  
-[3] 朱少川, 郑磊, 杜文博. 基于 Epsilon 约束列生成的机场停机位应急调整[J]. 北京航空航天大学学报, 2024.  
-[4] 张瞩熹, 朱熙, 朱少川, 等. 基于核主成分分析的空域复杂度无监督评估[J]. 航空学报, 2019, 40(8): 236-242.   
-[5] 张瞩熹, 田旺, 朱少川, 等. 多源异构航班航迹数据流实时融合方法研究[J]. 物联网学报, 2020, 4(03):60-68.   
-[6] Shaochuan Zhu, Wenbo Du. A Column Generation-Based Approach for Robust Gate Assignment Problem Considering Delay Heterogeneity[C]. World Transport Convention 2023. (优秀论文奖)  
-[7] Chen J, Ju Y, Zhu S, et al. Resilience enhancement of an urban road network during traffic accidents by optimally dispatching rescue teams[J]. PLoS One, 2025, 20(9): e0330824.
+[1] Shaochuan ZHU, Zheng L, Kaiquan CAI, et al. Optimizing aircraft-gate reassignment following airport disruptions: A hierarchical column-and-row generation approach[J]. Chinese Journal of Aeronautics, 2025, 38(2): 103155.  
+[2] Du W, Zhu S, Tong L, et al. Robust gate assignment to minimise aircraft conflicts[J]. Transportmetrica B: Transport Dynamics, 2023, 11(1): 2185497.      
+[3] Chen J, Liu X, Zhu S, et al. Resilience assessment of an integrated bus-rail network considering dynamic congestion propagation process under traffic congestion events[J]. Reliability Engineering & System Safety, 2025: 111721.   
+[4] Chen J, Ju Y, Zhu S, et al. Resilience enhancement of an urban road network during traffic accidents by optimally dispatching rescue teams[J]. PLoS One, 2025, 20(9): e0330824.  
+[5] 朱少川, 郑磊, 杜文博. 基于 Epsilon 约束列生成的机场停机位应急调整[J]. 北京航空航天大学学报, 2024.   
+[6] 张瞩熹, 朱熙, 朱少川, 等. 基于核主成分分析的空域复杂度无监督评估[J]. 航空学报, 2019, 40(8): 236-242.   
+[7] 张瞩熹, 田旺, 朱少川, 等. 多源异构航班航迹数据流实时融合方法研究[J]. 物联网学报, 2020, 4(03):60-68.   
+[8] Shaochuan Zhu, Wenbo Du. A Column Generation-Based Approach for Robust Gate Assignment Problem Considering Delay Heterogeneity[C]. World Transport Convention 2023. (优秀论文奖)   
+
 
 - 发明专利   
 [1] 一种机场资源调度的鲁棒优化方法:CN202210274301.8. 2022-04-15.    
@@ -46,13 +48,13 @@ redirect_from:
 
 ---
 ## 主要科研项目
-[1] 福建省社会科学基金，区块链技术赋能下新型警务运行模式的工作机制研究，**主持**  
-[2] 福建省科技厅，青年科技人员育成项目，基于多模态融合的无人机取证关键技术研究，**主持**  
-[3] 国家重点研发计划，无人机反制关键技术与装备研发，**重点参与**   
-[4] 国家交通XXX项目群，(I)XX大数据平台建设与应用示范；(II)XX数据汇聚与分析，**重点参与**  
-[5] XXXX重点项目，约束条件下的无人机XXXX计算技术，参与   
-[6] XXXX重点项目课题，XXXX协同规划与控制技术(网)，参与 
-
+[1] 福建省社会科学基金，区块链技术赋能下新型警务运行模式的工作机制研究，2025.7~至今，**主持**  
+[2] 福建省科技厅，首批青年科技人员育成项目，基于多模态融合的无人机取证关键技术研究，2025.9-至今**主持**    
+[3] 公安部科研计划，基于多源数据融合的无人机意图识别于风险预警技术研究，2026.1-至今，**重点参与（排名第2）**
+[3] 国家重点研发计划，无人机防控XXXX关键技术与装备研发，2023.12-至今，参与   
+[4] 国家交通XXX项目群，(I)XX大数据平台建设与应用示范；(II)XX数据汇聚与分析，2019.10-2023.10，参与  
+[5] XXXX重点项目，约束条件下的无人机XXXX计算技术，2019.1-2023.11，参与   
+[6] XXXX重点项目课题，XXXX协同规划与控制技术(网)，2021.1-至今，参与 
 
 ---
 ## 获得奖励
