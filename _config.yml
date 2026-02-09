@@ -24,7 +24,7 @@ author:
   avatar           : "photoZhu.png"
   name             : "朱少川"
   # pronouns         : "he/his"  
-  bio              : "北航博士、福建警察学院副教授"
+  bio              : "北航博士 福建警察学院副教授"
   location         : "福建省福州市仓山区首山路59号"
   employer         : "福建警察学院"
   uri              : # URL
@@ -157,18 +157,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
  # portfolio:
  #   output: true
  #   permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
