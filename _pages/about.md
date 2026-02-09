@@ -29,14 +29,15 @@ redirect_from:
 ---
 ## 主要研究成果
 - 期刊/会议论文   
-[1] Shaochuan ZHU, Zheng L, Kaiquan CAI, et al. Optimizing aircraft-gate reassignment following airport disruptions: A hierarchical column-and-row generation approach[J]. Chinese Journal of Aeronautics, 2025, 38(2): 103155.  
-[2] Du W, Zhu S, Tong L, et al. Robust gate assignment to minimise aircraft conflicts[J]. Transportmetrica B: Transport Dynamics, 2023, 11(1): 2185497.      
-[3] Chen J, Liu X, Zhu S, et al. Resilience assessment of an integrated bus-rail network considering dynamic congestion propagation process under traffic congestion events[J]. Reliability Engineering & System Safety, 2025: 111721.   
-[4] Chen J, Ju Y, Zhu S, et al. Resilience enhancement of an urban road network during traffic accidents by optimally dispatching rescue teams[J]. PLoS One, 2025, 20(9): e0330824.  
-[5] 朱少川, 郑磊, 杜文博. 基于 Epsilon 约束列生成的机场停机位应急调整[J]. 北京航空航天大学学报, 2024.   
-[6] 张瞩熹, 朱熙, 朱少川, 等. 基于核主成分分析的空域复杂度无监督评估[J]. 航空学报, 2019, 40(8): 236-242.   
-[7] 张瞩熹, 田旺, 朱少川, 等. 多源异构航班航迹数据流实时融合方法研究[J]. 物联网学报, 2020, 4(03):60-68.   
-[8] Shaochuan Zhu, Wenbo Du. A Column Generation-Based Approach for Robust Gate Assignment Problem Considering Delay Heterogeneity[C]. World Transport Convention 2023. (优秀论文奖)   
+[1] Shaochuan Zhu, Yuanwen Lai, Jinqu Chen, Xiaolian Li, Yumeng Li. IoT-enabled deployment optimization for urban low-altitude airspace surveillance networks. IEEE Internet of Things Magazine, 2026.    
+[2] Shaochuan ZHU, Zheng L, Kaiquan CAI, et al. Optimizing aircraft-gate reassignment following airport disruptions: A hierarchical column-and-row generation approach[J]. Chinese Journal of Aeronautics, 2025, 38(2): 103155.  
+[3] Du W, Zhu S, Tong L, et al. Robust gate assignment to minimise aircraft conflicts[J]. Transportmetrica B: Transport Dynamics, 2023, 11(1): 2185497.      
+[4] Chen J, Liu X, Zhu S, et al. Resilience assessment of an integrated bus-rail network considering dynamic congestion propagation process under traffic congestion events[J]. Reliability Engineering & System Safety, 2025: 111721.   
+[5] Chen J, Ju Y, Zhu S, et al. Resilience enhancement of an urban road network during traffic accidents by optimally dispatching rescue teams[J]. PLoS One, 2025, 20(9): e0330824.  
+[6] 朱少川, 郑磊, 杜文博. 基于Epsilon约束列生成的机场停机位应急调整[J]. 北京航空航天大学学报, 2024.   
+[7] 张瞩熹, 朱熙, 朱少川, 等. 基于核主成分分析的空域复杂度无监督评估[J]. 航空学报, 2019, 40(8): 236-242.   
+[8] 张瞩熹, 田旺, 朱少川, 等. 多源异构航班航迹数据流实时融合方法研究[J]. 物联网学报, 2020, 4(03):60-68.   
+[9] Shaochuan Zhu, Wenbo Du. A Column Generation-Based Approach for Robust Gate Assignment Problem Considering Delay Heterogeneity[C]. World Transport Convention 2023. (优秀论文奖)   
 
 
 - 发明专利   
@@ -50,7 +51,7 @@ redirect_from:
 ## 主要科研项目
 [1] 福建省社会科学基金，区块链技术赋能下新型警务运行模式的工作机制研究，2025.7~至今，**主持**  
 [2] 福建省科技厅，首批青年科技人员育成项目，基于多模态融合的无人机取证关键技术研究，2025.9-至今**主持**    
-[3] 公安部科研计划，基于多源数据融合的无人机意图识别于风险预警技术研究，2026.1-至今，**重点参与（排名第2）**
+[3] 公安部科研计划，基于多源数据融合的无人机意图识别于风险预警技术研究，2026.1-至今，**重点参与（排名第2）**   
 [3] 国家重点研发计划，无人机防控XXXX关键技术与装备研发，2023.12-至今，参与   
 [4] 国家交通XXX项目群，(I)XX大数据平台建设与应用示范；(II)XX数据汇聚与分析，2019.10-2023.10，参与  
 [5] XXXX重点项目，约束条件下的无人机XXXX计算技术，2019.1-2023.11，参与   
