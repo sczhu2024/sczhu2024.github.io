@@ -24,17 +24,9 @@ author:
   avatar           : "photoZhu.png"
   name             : "朱少川"
   # pronouns         : "he/his"  
-  bio              : "北京航空航天大学博士、福建警察学院副教授"
-  location         : "福建省福州市仓山区首山路59号治安系"
-  employer         : "福建警察学院"
-  uri              : # URL
-  email            : "sczhu@fjpsc.edu.cn" 
+  bio              : "福建警察学院副教授"
+  location         : "福建省福州市仓山区首山路59号"
 
-  # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "http://orcid.org/yourorcidurl"
-  researchgate     : # URL
-  github           : "sczhu2024"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
