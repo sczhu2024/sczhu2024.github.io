@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-北京航空航天大学工学博士，福建警察学院治安系副教授，福州大学硕士生导师，主要研究方向为无人机应用技术、低空安全管控等，主持《基于多模态融合的无人机取证关键技术研究》等省部级项目2项，参与国家重点研发计划、公安部科研计划等项目，在Chinese Journal of Aeronautic等学术期刊发表论文8篇，授权国家发明专利7项，获WTC2023优秀论文等10余项荣誉。
+北京航空航天大学工学博士，福建警察学院治安系副教授，福州大学硕士生导师，主要研究方向为低空安全管控、交通优化等，主持《基于多模态融合的无人机取证关键技术研究》等省部级项目2项，参与国家重点研发计划、公安部科研计划等项目，在IEEE IOTM、CJA等学术期刊发表论文8篇，授权国家发明专利7项，获WTC2023优秀论文等10余项荣誉。
 
 ---
 ## 工作经历   
@@ -24,26 +24,26 @@ redirect_from:
 
 ---
 ## 研究方向  
-- 低空安全管理
+- 低空安全管控
 - 无人机应用技术
 - 交通大数据挖掘
 
 
 ---
 ## 主要科研项目
-[1] 福建省社会科学基金，区块链技术赋能下新型警务运行模式的工作机制研究，2025.7~至今，**主持**  
-[2] 福建省科技厅，首批青年科技人员育成项目，基于多模态融合的无人机取证关键技术研究，2025.9-至今，**主持**    
+[1] 福建省科技厅，首批青年科技人员育成项目，基于多模态融合的无人机取证关键技术研究，2025.9-至今，**主持**   
+[2] 福建省社会科学基金，区块链技术赋能下新型警务运行模式的工作机制研究，2025.7~至今，**主持**    
 [3] 公安部科研计划，基于多源数据融合的无人机意图识别于风险预警技术研究，2026.1-至今，参与   
 [3] 国家重点研发计划，无人机防控XXXX关键技术与装备研发，2023.12-至今，参与   
 [4] 国家交通XXX项目群，(I)XX大数据平台建设与应用示范；(II)XX数据汇聚与分析，2019.10-2023.10，参与  
-[5] XXXX重点项目，约束条件下的无人机XXXX计算技术，2019.1-2023.11，参与   
-[6] XXXX重点项目课题，XXXX协同规划与控制技术(网)，2021.1-至今，参与 
+[5] XXXX重点项目课题，XXXX协同规划与控制技术(网)，2021.1-2025.12，参与    
+[6] XXXX重点项目，约束条件下的无人机XXXX计算技术，2019.1-2023.11，参与    
 
 
 ---
 ## 主要研究成果
 - 期刊/会议论文   
-[1] Shaochuan Zhu, Yuanwen Lai, Jinqu Chen, Xiaolian Li, Yumeng Li. IoT-enabled deployment optimization for urban low-altitude airspace surveillance networks[J]. IEEE Internet of Things Magazine, 2026.    
+[1] Zhu S, Lai Y, Chen J, et al. IoT-Enabled Deployment Optimization for Urban Low-Altitude Airspace Surveillance Networks[J]. IEEE Internet of Things Magazine, 2026.    
 [2] Shaochuan ZHU, Zheng L, Kaiquan CAI, et al. Optimizing aircraft-gate reassignment following airport disruptions: A hierarchical column-and-row generation approach[J]. Chinese Journal of Aeronautics, 2025, 38(2): 103155.  
 [3] Du W, Zhu S, Tong L, et al. Robust gate assignment to minimise aircraft conflicts[J]. Transportmetrica B: Transport Dynamics, 2023, 11(1): 2185497.      
 [4] Chen J, Liu X, Zhu S, et al. Resilience assessment of an integrated bus-rail network considering dynamic congestion propagation process under traffic congestion events[J]. Reliability Engineering & System Safety, 2025: 111721.   
@@ -72,5 +72,6 @@ redirect_from:
 [4] 优秀研究生、优秀共青团员、本科优秀毕业论文等 
 
 ---
-## 指导学生
-[1] 公安院校师生智慧交通警务教学技能创新大赛，学生组三等奖，2026-04-10  
+## 指导学生获奖
+[1] 第十届全国高校智能交通创新与创业大赛，本科生赛道二等奖，2026-07-26    
+[2] 第三届公安院校师生智慧交通警务教学技能创新大赛，学生组三等奖，2026-04-10  
