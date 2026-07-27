@@ -51,8 +51,8 @@ redirect_from:
 [5] Chen J, Liu X, Liu Y, Ou M, **Zhu S**, et al. Resilience Enhancement of an Urban Rail Transit Network by Jointly Optimizing Restoration Sequences and Bus Bridging Services[J]. Journal of Transportation Engineering, Part A: Systems, 2026, 152(5): 04026021.    
 [6] **Zhu S**, Zheng L, Cai K, et al. Optimizing aircraft-gate reassignment following airport disruptions: A hierarchical column-and-row generation approach[J]. Chinese Journal of Aeronautics, 2025, 38(2): 103155.  
 [7] Chen J, Liu X, **Zhu S**, et al. Resilience assessment of an integrated bus-rail network considering dynamic congestion propagation process under traffic congestion events[J]. Reliability Engineering & System Safety, 2025: 111721.    
-[8] Du W, **Zhu S**, Tong L, et al. Robust gate assignment to minimise aircraft conflicts[J]. Transportmetrica B: Transport Dynamics, 2023, 11(1): 2185497.      
-[9] Chen J, Ju Y, **Zhu S**, et al. Resilience enhancement of an urban road network during traffic accidents by optimally dispatching rescue teams[J]. PLoS One, 2025, 20(9): e0330824.  
+[8] Chen J, Ju Y, **Zhu S**, et al. Resilience enhancement of an urban road network during traffic accidents by optimally dispatching rescue teams[J]. PLoS One, 2025, 20(9): e0330824.  
+[9] Du W, **Zhu S**, Tong L, et al. Robust gate assignment to minimise aircraft conflicts[J]. Transportmetrica B: Transport Dynamics, 2023, 11(1): 2185497.      
 [10] **朱少川**, 郑磊, 杜文博. 基于Epsilon约束列生成的机场停机位应急调整[J]. 北京航空航天大学学报, 2024.   
 [11] 张瞩熹, 朱熙, **朱少川**, 等. 基于核主成分分析的空域复杂度无监督评估[J]. 航空学报, 2019, 40(8): 236-242.   
 [12] 张瞩熹, 田旺, **朱少川**, 等. 多源异构航班航迹数据流实时融合方法研究[J]. 物联网学报, 2020, 4(03):60-68.   
