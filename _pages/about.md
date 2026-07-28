@@ -53,13 +53,13 @@ redirect_from:
 [8] Chen J, Liu X, **Zhu S**, et al. Resilience assessment of an integrated bus-rail network considering dynamic congestion propagation process under traffic congestion events[J]. Reliability Engineering & System Safety, 2025: 111721.    
 [9] Chen J, Ju Y, **Zhu S**, et al. Resilience enhancement of an urban road network during traffic accidents by optimally dispatching rescue teams[J]. PLoS One, 2025, 20(9): e0330824.  
 [10] Du W, **Zhu S**, Tong L, et al. Robust gate assignment to minimise aircraft conflicts[J]. Transportmetrica B: Transport Dynamics, 2023, 11(1): 2185497.      
-[11] 张瞩熹, 田旺, **朱少川**, 等. 多源异构航班航迹数据流实时融合方法研究[J]. 物联网学报, 2020, 4(03):60-68. 
+[11] 张瞩熹, 田旺, **朱少川**, 等. 多源异构航班航迹数据流实时融合方法研究[J]. 物联网学报, 2020, 4(03):60-68.   
 [12] 张瞩熹, 朱熙, **朱少川**, 等. 基于核主成分分析的空域复杂度无监督评估[J]. 航空学报, 2019, 40(8): 236-242.   
 
-- 会议论文
+- 会议论文    
 [1] **Shaochuan Zhu**, Wenbo Du. A Column Generation-Based Approach for Robust Gate Assignment Problem Considering Delay Heterogeneity[C]. World Transport Convention 2023. (优秀论文奖)   
 
-- 授权发明专利   
+- 授权发明专利    
 [1] 一种低空监测网节点部署生成方法和装置: ZL202510625223.5. 2026-04-17.   
 [2] 一种机场资源调度的鲁棒优化方法: ZL202210274301.8. 2022-04-15.    
 [3] 一种航班航迹预测方法: ZL202010394699.X. 2020-06-16.   
@@ -67,7 +67,7 @@ redirect_from:
 [5] 一种基于轨迹分析的交通运力测算方法和装置: ZL201910063200.4. 2020-10-30.   
 [6] 一种空域复杂度无监督评估方法: ZL201910160859.1. 2020-08-18.  
 
-- 获得奖励
+- 获得奖励    
 [1] 中国"互联网+"创新创业大赛北京赛区 银奖   
 [2] 世界交通运输大会(WTC2023) 优秀论文奖   
 [3] 全国大学生节能减排社会实践与科技竞赛 三等奖   
@@ -75,6 +75,6 @@ redirect_from:
 
 
 ---
-## 指导学生获奖
+## 指导学生获奖    
 [1] 第十届全国高校智能交通创新与创业大赛，本科生赛道二等奖，2026-07-26.  
 [2] 第三届公安院校师生智慧交通警务教学技能创新大赛，学生组三等奖，2026-04-10.   
